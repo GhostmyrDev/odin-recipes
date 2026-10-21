@@ -1,5 +1,5 @@
 # odin-recipes
-TOP's Recipes' project.
+This repository's solely dedicated towards the completion of The Odin Project Foundations curriculum.
 
 This project has no likeness of being hosted publicly in any host, this is for educational purposes and the sake of my own learning.
 
@@ -9,10 +9,12 @@ These are the used sources for both images and recipes in this website.
 ### For recipes
 - [Lasagne](https://www.recipetineats.com/lasagna/)
 - [Paella](https://www.consum.es/entrenosotros/paella/)
+- [La Bandera](https://www.cocinadominicana.com/bandera-dominicana-almuerzo)
 
 ### For images
 - [Lasagne](https://commons.wikimedia.org/wiki/File:Lasagna_al_forno.jpg)
 - [Paella](https://www.consum.es/entrenosotros/paella/) (yes! both the recipe and the image come from the same site. Although beware, this site is in **Spanish**)
+- [La Bandera]()
 
 ## Educational Disclaimer & Legal Notice (Spain LPI)
 
